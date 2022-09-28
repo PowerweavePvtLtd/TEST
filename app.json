@@ -1,0 +1,76 @@
+{
+  "id": "cdbcead0-b355-4728-8b07-1c039ff124aa",
+  "name": "Reports",
+  "publisher": "Default publisher",
+  "version": "1.0.1.55",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "18a68b54-7c9b-4d1e-97e2-13b2648645f3",
+      "name": "PurchaseMasterTables",
+      "publisher": "Default publisher",
+      "version": "1.0.0.22"
+    },
+    {
+     
+      "id": "b8e82b3e-2488-4dc5-9040-faae715bdd61",
+      "name": "SuggestChargeSetup_5.0",
+      "publisher": "Default publisher",
+      "version": "1.6.0.43"
+    },
+    {
+      "id": "1818eb27-dce8-4d65-a9bb-8cc208b53f9f",
+      "name": "Item Tables",
+      "publisher": "Default publisher",
+      "version": "1.0.0.48"
+    },
+    {
+      "id": "2be5ed42-6f45-472b-8495-d9573ec6a619",
+      "name": "VendorMaster",
+      "publisher": "Default publisher",
+      "version": "1.0.0.21"
+    },
+    {
+      "id": "fb723220-a750-44ba-8ace-e6eb00432fa3",
+      "name": "PostedPurchaseMaster",
+      "publisher": "Default publisher",
+      "version": "1.0.0.5"
+    },
+    {
+      "id": "a680bc10-110c-4513-92ec-8c1c08ee24ea",
+      "name": "SalesMaster",
+      "publisher": "Default publisher",
+      "version": "1.0.0.82"
+    }
+
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Reports.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0"
+}
